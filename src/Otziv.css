@@ -1,0 +1,85 @@
+.main {
+  border: 1px solid black;
+  width: 750px;
+  height: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-top: 4%;
+}
+
+.main h1 {
+  text-align: center;
+  text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, #cad5e2 3px 3px 0,
+    #cad5e2 4px 4px 0, #cad5e2 5px 5px 0;
+}
+
+.otziv {
+  align-items: center;
+  text-align: center;
+}
+
+.otziv p {
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.otziv input {
+  /* width: 50%; */
+  text-align: center;
+  align-items: center;
+}
+
+.otziv-btn{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 140px;
+}
+
+.animated-button {
+  text-decoration: none;
+  display: inline-block;
+  /* margin: 110px 400px; */
+  padding: 15px 30px;
+  overflow: hidden;
+  border: 2px solid;
+  border-bottom-width: 4px;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: rgba(30, 255, 188, 1);
+  background: rgba(255, 255, 255, 1);
+  transition: color 0.3s, background 0.5s;
+}
+
+.animated-button button{
+    align-items: center;
+    margin-top: 50px;
+}
+
+.animated-button:hover {
+  animation: stripes 0.75s infinite linear;
+  background: linear-gradient(
+    45deg,
+    rgba(30, 255, 188, 1) 25%,
+    rgba(255, 255, 255, 1) 25%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(30, 255, 188, 1) 50%,
+    rgba(30, 255, 188, 1) 75%,
+    rgba(255, 255, 255, 1) 75%,
+    rgba(255, 255, 255, 1)
+  );
+  background-size: 10px 10px;
+  color: #ff50e5;
+}
+@keyframes stripes {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 50px 0;
+  }
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "id" : 19,
+        "title" : "Samsung",
+        "img" : "https://fora.kz/images/content/products/615742/samsung-ue43tu8000uxce_5ee34d79cffb3.jpg",
+        "desc" : "189 990 ₸"
+    },
+
+    {
+        "id" : 20,
+        "title" : "Xiaomi",
+        "img" : "https://fora.kz/images/content/products/613383/xiaomi-mi-tv-4s-43-global_5e4150b219603.jpg",
+        "desc" : "169 990 ₸"
+    },
+
+    {
+        "id" : 21,
+        "title" : "Sony",
+        "img" : "https://fora.kz/images/content/products/611943/sony-kd65xg7096br2_5d91f1d8317df.jpg",
+        "desc" : "499 990 ₸"
+    },
+
+    { 
+        "id" : 22,
+        "title" : "Toshiba",
+        "img" : "https://fora.kz/images/content/products/608614/toshiba-32l5780ec_5bff6ec18a8f1.jpg",
+        "desc" : "200 000 ₸"
+    },
+
+    {
+        "id" : 23,
+        "title" : "Philips",
+        "img" : "https://www.frog.ee/1227735-thickbox/philips-24pfs5505-24-full-hd-led-%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg",
+        "desc" : "120 870 ₸"
+    },
+    {
+        "id" : 24,
+        "title" : "LG",
+        "img" : "http://bt24.kz/images/detailed/10/lg-32lm570bplaadkb_5dc127076ba8d.jpg",
+        "desc" : "121 400 ₸"
+    },
+    {
+        "id" : 25,
+        "title" : "Kivi",
+        "img" : "https://evrika.com/upload/iblock/371/televizor_kivi_led_50u710kb.jpg",
+        "desc" : "324 990 ₸"
+    },
+    {
+        "id" : 26,
+        "title" : "BQ",
+        "img" : "http://www.idpkz.kz/upload/images/51806_93134_18.jpg",
+        "desc" : "98 990 ₸"
+    },
+    {
+        "id" : 27,
+        "title" : "Polo",
+        "img" : "https://frankfurt.apollo.olxcdn.com/v1/files/yidi634j3xbt1-KZ/image",
+        "desc" : "325 990 ₸"
+    }
+]

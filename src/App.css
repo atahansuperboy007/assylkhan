@@ -1,0 +1,171 @@
+body{
+  background-image: url(https://images.wallpaperscraft.ru/image/gradient_raznotsvetnyj_tsvet_153151_1920x1080.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-links {
+  display: flex;
+  justify-content: space-between;
+  /* margin: 20px 0px; */
+  padding: 20px 50px 20px 50px;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.links a:visited {
+  color: white;
+}
+
+.Basket a:visited{
+  color: white;
+}
+
+.Basket{
+  display: flex;
+  align-items: center;
+}
+
+.Basket a {
+  font-size: 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.links{
+  display: flex;
+  align-items: center;
+}
+
+.otzivi a:visited {
+  color: white;
+}
+
+.otzivi{
+  display: flex;
+  align-items: center;
+}
+
+.otzivi a{
+  font-size: 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.links a {
+  font-size: 20px;
+  margin: 20px;
+  text-decoration: none;
+}
+
+/* span{
+  height: 90%;
+  /* margin-top: 7px; */
+/* } */
+
+/* span img{
+  width: 5%;
+  height: 50%;
+  border: 1px solid gray;
+  padding: 2px;
+  margin-top: 15px;
+  border-radius: 4px;
+} */ 
+
+/* .search{
+  display: flex;
+  align-items: center;
+}
+
+.search{
+  width: 365px;
+  border: 3px solid orange;
+  display: flex;
+  /* margin: 0 auto; */
+  /* border-radius: 30px; */
+  /* overflow: hidden; */
+  /* -webkit-box-shadow: 0px 0px 20px 0px #999999; */
+          /* box-shadow: 0px 0px 20px 0px #999999; */
+  /* margin-left: 100px;         */
+  /* margin-top: 30px; */
+  /* margin-bottom: 35px; */
+/* } */
+
+/* input{ */
+  /* border: 1px solid gray; */
+  /* padding: 15px 20px; */
+  /* padding-right: 20px; */
+  /* margin-top: 7px; */
+  /* margin-left: 100px; */
+/* } */
+
+input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('./assets/loupe.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 40%;
+
+}
+
+.search{
+  width: 365px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  /* justify-content: center;  margin: 0 auto; */
+  border-radius: 40px;
+  overflow: hidden;
+  /* -webkit-box-shadow: 0px 0px 20px 0px #999999;
+          box-shadow: 0px 0px 20px 0px #999999; */
+  /* margin-top: 30px;
+  margin-bottom: 35px; */
+  height: 50px;
+  /* margin-left: auto; */
+}
+
+.search input{
+  width: 70%;
+  padding: 12px 36px;
+  outline: none;
+  font-size: 18px;
+  border: none;
+}
+
+.search span{
+  width: 30%;
+  padding: 12px;
+  background-color: orange;
+  color: white;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.search span img{
+  width: 30px;
+  height: 25px;
+}
+
+.main-div{
+  display: flex;
+}

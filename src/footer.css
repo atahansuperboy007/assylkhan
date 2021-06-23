@@ -1,0 +1,31 @@
+.footer-text-1 p {
+  width: 584px;
+  height: 14px;
+  font-size: 12px;
+  line-height: 14px;
+  color: #828282;
+  margin-left: 90px;
+  /* color: white; */
+}
+
+.footer-text-2 p {
+  width: 181px;
+  height: 14px;
+  text-align: right;
+  font-size: 12px;
+  line-height: 14px;
+  color: #828282;
+  margin-right: 130px;
+  /* color: white; */
+}
+
+.footer {
+  background: #efefef;
+}
+
+.oba {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px 20px 0px;
+  margin: 0px 0px 0px 30px;
+}

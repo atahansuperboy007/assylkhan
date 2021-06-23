@@ -1,0 +1,111 @@
+.webs {
+  align-items: center;
+}
+
+.glav {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+}
+
+.web {
+  display: flex;
+  margin-top: 37px;
+}
+
+.logotips {
+  width: 45px;
+  height: 45px;
+  background: #ffffff;
+  border: 2px solid #f13c6e;
+  box-sizing: border-box;
+  border-radius: 100px;
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.logotipsss {
+  width: 45px;
+  height: 45px;
+  background: #ffffff;
+  border: 2px solid #f13c6e;
+  box-sizing: border-box;
+  border-radius: 100px;
+  align-items: center;
+  display: flex;
+}
+
+.logotipss {
+  width: 45px;
+  height: 45px;
+  background: #ffffff;
+  border: 2px solid #f13c6e;
+  box-sizing: border-box;
+  border-radius: 100px;
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.logotips img {
+  align-items: center;
+  margin-left: 10px;
+}
+
+.logotipsss img {
+  align-items: center;
+  margin-left: 10px;
+}
+
+.logotipss img {
+  align-items: center;
+  margin-left: 5px;
+}
+
+.web-text img {
+  width: 227px;
+  height: 16px;
+  font-size: 14px;
+  line-height: 16px;
+  margin-top: 52px;
+}
+
+.main-header-text-22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 35px;
+  margin-right: 115px;
+  /* margin-right: 20px; */
+}
+
+.main-header-text-22{
+  margin-left: 600px;
+}
+
+.main-header-text-22 h1{
+  color: white;
+}
+
+.main-button2 span {
+  width: 117px;
+  height: 15px;
+  font-size: 14px;
+  color: white;
+}
+
+.main-header-text-22 button {
+  width: 170px;
+  height: 40px;
+  box-sizing: border-box;
+  border-radius: 40px;
+  background: #ffffff;
+  border: 2px solid #f13c6e;
+  margin-left: 40px;
+  background: #f13c6e;
+}

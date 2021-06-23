@@ -1,0 +1,59 @@
+[
+    {
+        "id" : 1,
+        "title" : "Acer",
+        "img" : "https://cdn-kaspi.kz/shop/medias/sys_master/images/images/h16/h01/26625877475358/acer-nitro-5-an515-55-nh-q7mer-005-cernyj-100502917-1.png",
+        "desc" : "200 770 ₸"
+    },
+
+    {
+        "id" : 2,
+        "title" : "HyperPc",
+        "img" : "https://nowatermark.ozone.ru/s3/multimedia-7/6059746831.jpg",
+        "desc" : "178 700 ₸"
+    },
+
+    {
+        "id" : 3,
+        "title" : "NZXT",
+        "img" : "https://digital-razor.ru/upload/iblock/0d4/0d4dbde55703295e068b7546b4f1580a.png",
+        "desc" : "295 500 ₸"
+    },
+
+    {
+        "id" : 4,
+        "title" : "LG",
+        "img" : "https://pc-arena.ru/upload/iblock/739/739597cbd57660921125b4a5538ee34c.jpg",
+        "desc" : "195 800 ₸"
+    },
+    {
+        "id" : 5,
+        "title" : "HP",
+        "img" : "https://pc-arena.ru/upload/iblock/107/107b68912385b5d973b2dae4b55fb9a8.jpg",
+        "desc" : "321 115 ₸"
+    },
+    {
+        "id" : 6,
+        "title" : "SMART",
+        "img" : "https://moon.kz/upload/iblock/647/64712eef1b1985d0b6732e0b1af905f3.png",
+        "desc" : "200 700 ₸"
+    },
+    {
+        "id" : 7,
+        "title" : "Mercury",
+        "img" : "https://moon.kz/upload/iblock/3c5/3c5dee303d64288345b101e610665d81.png",
+        "desc" : "155 800 ₸"
+    },
+    {
+        "id" : 8,
+        "title" : "MB",
+        "img" : "https://object.pscloud.io/cms/cms/Photo/img_0_1328_57_0.jpg",
+        "desc" :"495 500 ₸"
+    },
+    {
+        "id" : 9,
+        "title" : "Reno",
+        "img" : "https://cdn1.ozone.ru/s3/multimedia-i/c1200/6043874442.jpg",
+        "desc" : "200 000 ₸"
+    }
+]

@@ -1,0 +1,108 @@
+.mainbasket {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.basket {
+  margin-left: 130px;
+  margin-bottom: 100px;
+}
+
+.basket img {
+  padding: 20px 0px;
+  width: 450px;
+  height: 450px;
+}
+
+.basket h1 {
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.basket-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .basket p{
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
+    border: 1px solid none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: pink;
+    color: white;
+    width: 30%;
+    margin-left: 160px;
+    margin-bottom: 20px;
+} */
+
+.basket-item{
+  padding-top: 40px;
+}
+
+.basket p {
+  font-size: 17px;
+  font-weight: 600;
+  text-align: center;
+  /* margin-right: 300px; */
+  /* margin-bottom: 25px; */
+  border-radius: 10px;
+  /* margin-left: 20px; */
+  padding: 10px 5px;
+  background-color: green;
+  color: white;
+  width: 25%;
+  /* margin-left: 160px; */
+  /* margin-bottom: 20px; */
+}
+
+.basket button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 5px 15px;
+  /* width: 200px; */
+  transition: all 0.5s;
+  cursor: pointer;
+  /* margin: 5px; */
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  font-size: 20px;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.btns{
+  display: flex;
+  justify-content: space-around;
+  /* padding: 20px; */
+  margin-bottom: 20px;
+}
